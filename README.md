@@ -11,12 +11,11 @@
 | nRF52840 Dongle (eByte(E104-BT5040U) or Nordic Semiconductor(PCA10059) or SuperMini) | N/A | N/A |
 | 30mm Straps with Silicone | 30mm | https://www.aliexpress.com/item/1005003917576160.html?mp=1 |
 
-Photos of Prototype 0.9.4
+Photos of Prototype 0.9.5
 
 (Dimensions: 36.95mm x 38.64mm x 8.4mm)
-![GremlinTracker1](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers1.png?raw=true)
-![GremlinTracker2](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers2.png?raw=true)
-![GremlinTracker3](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers3.png?raw=true)
-![GremlinTracker4](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers4.png?raw=true)
-![GremlinTracker5](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers5.png?raw=true)
-![GremlinTracker6](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/GremlinTrackers6.png?raw=true)
+![GremlinTracker1](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/0.9.5/GremlinTrackers1.png?raw=true)
+![GremlinTracker2](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/0.9.5/GremlinTrackers2.png?raw=true)
+![GremlinTracker3](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/0.9.5/GremlinTrackers3.png?raw=true)
+![GremlinTracker4](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/0.9.5/GremlinTrackers4.png?raw=true)
+![GremlinTracker5](https://github.com/ManicQuinn/SlimeVR-Gremlin/blob/main/photos/0.9.5/GremlinTrackers5.png?raw=true)
