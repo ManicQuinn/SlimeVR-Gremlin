@@ -75,8 +75,8 @@ A case design based on a [Stacked Smol-Slime](https://github.com/LyallUlric/Stac
 | Contributor | Description | Link |
 | --- | --- | --- |
 | Brassflamingo | A lot of help with Prototyping. | N/A |
-| Brassflamingo and @42Triangles | Funding the project. | N/A |
-| @SlimeVR | Everything SlimeVR | https://github.com/SlimeVR |
-| @Sctanf | Smol-Slime Firmware and Hardware design. | https://github.com/SlimeVR/SlimeVR-Tracker-nRF |
-| @ShineBrightMeow | Smol-Slime Documentation | https://docs.shinebright.dev/diy/smol-slime.html |
-| @LyallUlric | Contributions to the stacked smol-slime branch. | https://github.com/LyallUlric/Stacked-SmolSlime |
+| Brassflamingo and 42Triangles | Funding the project. | N/A |
+| SlimeVR Team | Everything SlimeVR | https://github.com/SlimeVR |
+| Sctanf | Smol-Slime Firmware and Hardware design. | https://github.com/SlimeVR/SlimeVR-Tracker-nRF |
+| ShineBrightMeow | Smol-Slime Documentation | https://docs.shinebright.dev/diy/smol-slime.html |
+| LyallUlric | Contributions to the stacked smol-slime branch. | https://github.com/LyallUlric/Stacked-SmolSlime |
