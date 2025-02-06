@@ -69,7 +69,7 @@ A case design based on a [Stacked Smol-Slime](https://github.com/LyallUlric/Stac
 - [X] Add parameters for certain measurements.
 - [X] ~~Create a calibration cube.~~ (Not needed)
 - [ ] Create a tray for a chest tracker.
-- [X] Do a test print; Test Fragility of new strap loops, test the give of the tray/slide, test new button. (Brass 🩷)
+- [X] Do a test print; Test Fragility of new strap loops, test the give of the tray/slide, test new button.
 - [ ] Work on aesthetics.
 
 ## Credit
